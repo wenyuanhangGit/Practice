@@ -4,7 +4,7 @@ package com.wyh;
  * Hello world!
  *
  */
-public class App 
+public class HelloWorld
 {
     public static void main( String[] args )
     {
