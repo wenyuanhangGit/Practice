@@ -5,6 +5,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../crawler-host/pom.xml" />
+        <option value="$PROJECT_DIR$/../crawler-queue-host/pom.xml" />
+        <option value="$PROJECT_DIR$/../crawler-spider/pom.xml" />
+        <option value="$PROJECT_DIR$/../host-spout/pom.xml" />
+        <option value="$PROJECT_DIR$/../host-spout-api/pom.xml" />
       </list>
     </option>
   </component>

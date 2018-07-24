@@ -6,6 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="crawler-host" />
+        <module name="crawler-queue-host" />
+        <module name="crawler-spider" />
+        <module name="host-spout" />
+        <module name="host-spout-api" />
         <module name="Practice" />
       </profile>
     </annotationProcessing>
