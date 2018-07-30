@@ -9,8 +9,12 @@
         <module name="crawler-host" />
         <module name="crawler-queue-host" />
         <module name="crawler-spider" />
+        <module name="crawler4j" />
+        <module name="crawler4j-examples-base" />
+        <module name="crawler4j-examples-postgres" />
         <module name="host-spout" />
         <module name="host-spout-api" />
+        <module name="htmlcleaner-2.8" />
         <module name="Practice" />
       </profile>
     </annotationProcessing>

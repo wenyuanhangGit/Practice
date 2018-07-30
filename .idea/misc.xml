@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/../crawler-spider/pom.xml" />
         <option value="$PROJECT_DIR$/../host-spout/pom.xml" />
         <option value="$PROJECT_DIR$/../host-spout-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../crawler4j/pom.xml" />
+        <option value="$PROJECT_DIR$/../htmlcleaner/pom.xml" />
       </list>
     </option>
   </component>

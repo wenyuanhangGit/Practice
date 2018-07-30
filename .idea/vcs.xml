@@ -5,7 +5,9 @@
     <mapping directory="$PROJECT_DIR$/../crawler-host" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../crawler-queue-host" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../crawler-spider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../crawler4j" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../host-spout" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../host-spout-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../htmlcleaner" vcs="Git" />
   </component>
 </project>
