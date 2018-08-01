@@ -2,58 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac9d036d-71ba-4736-b510-3cdf92b70752" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/concurrent/CountDownLatchExample/Race.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/concurrent/CyclicBarrierExample/Beer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/concurrent/Future/CommonCook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/concurrent/Future/FutureCook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/robots/robots1/RobotRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/robots/robots1/RobotsMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/robots/robots2/RobotRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/robots/robots2/RobotsMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/robots/robots3/RobotRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/robots/robots3/RobotsMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wyh/DomParserDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/CrawlConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/authentication/AuthInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/authentication/BasicAuthInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/authentication/FormAuthInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/authentication/NtAuthInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/exceptions/PageBiggerThanMaxSizeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/fetcher/BasicAuthHttpRequestInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/fetcher/IdleConnectionMonitorThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/fetcher/PageFetchResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/fetcher/PageFetcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/fetcher/SniPoolingHttpClientConnectionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/fetcher/SniSSLConnectionSocketFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/parser/ParseData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/HostDirectives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/PathRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/RobotstxtConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/RobotstxtParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/RobotstxtServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/UserAgentDirectives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/url/TLDList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/url/URLCanonicalizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/url/UrlResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/url/WebURL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/shenjianshou/crawler/spider/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/shenjianshou/crawler/spider/robotstxt/HostDirectives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/shenjianshou/crawler/spider/robotstxt/PathRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/shenjianshou/crawler/spider/robotstxt/RobotstxtConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/shenjianshou/crawler/spider/robotstxt/RobotstxtParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/shenjianshou/crawler/spider/robotstxt/RobotstxtServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/shenjianshou/crawler/spider/robotstxt/UserAgentDirectives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../htmlcleaner/src/main/resources/htmlcleaner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/robots/robots3/RobotsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/robots/robots3/RobotsMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wyh/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyh/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/robots/robots3/RobotsMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/robots/robots3/RobotsMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wyh/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wyh/HelloWorld.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../crawler-queue-host/conf/hosting.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../crawler-queue-host/conf/hosting.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../crawler-queue-host/src/main/conf/hosting.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../crawler-queue-host/src/main/conf/hosting.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../crawler-queue-host/src/main/java/cn/shenjianshou/crawler/queue/hosting/HostQueueServiceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crawler-queue-host/src/main/java/cn/shenjianshou/crawler/queue/hosting/HostQueueServiceConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../crawler-queue-host/src/main/java/cn/shenjianshou/crawler/queue/hosting/service/RedisSelectService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crawler-queue-host/src/main/java/cn/shenjianshou/crawler/queue/hosting/service/RedisSelectService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../crawler-queue-host/src/main/java/cn/shenjianshou/crawler/queue/hosting/util/HostQueueClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crawler-queue-host/src/main/java/cn/shenjianshou/crawler/queue/hosting/util/HostQueueClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/selector/Xpath2Selector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/selector/Xpath2Selector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/host/FileHostClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/host/FileHostClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../crawler-spider/src/test/java/cn/shenjianshou/crawler/spider/SpiderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crawler-spider/src/test/java/cn/shenjianshou/crawler/spider/SpiderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crawler-spider/src/main/resources/htmlcleaner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crawler-spider/src/main/resources/htmlcleaner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../htmlcleaner/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../htmlcleaner/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -77,74 +45,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HtmlUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/util/HtmlUtils.java">
+      <file leaf-file-name="htmlcleaner.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/resources/htmlcleaner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="204" column="31" selection-start-line="204" selection-start-column="31" selection-end-line="204" selection-end-column="31" />
+            <state relative-caret-position="4825">
+              <caret line="233" column="25" selection-start-line="233" selection-start-column="19" selection-end-line="233" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Xpath2Selector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/selector/Xpath2Selector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="145" column="41" lean-forward="true" selection-start-line="145" selection-start-column="41" selection-end-line="145" selection-end-column="41" />
-              <folding>
-                <element signature="e#6107#6115#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HtmlCleaner.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../htmlcleaner/src/main/java/org/htmlcleaner/HtmlCleaner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="430" selection-start-line="430" selection-end-line="430" />
-              <folding>
-                <element signature="e#10007#10008#0" expanded="true" />
-                <element signature="e#10039#10040#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HtmlTokenizer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../htmlcleaner/src/main/java/org/htmlcleaner/HtmlTokenizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="416" selection-start-line="416" selection-end-line="416" />
-              <folding>
-                <element signature="e#0#27470#0" expanded="true" />
-                <element signature="e#2733#2744#0" expanded="true" />
-                <element signature="e#5056#5057#0" expanded="true" />
-                <element signature="e#5091#5092#0" expanded="true" />
-                <element signature="e#8509#8510#0" expanded="true" />
-                <element signature="e#8557#8558#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpiderTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SpiderTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../crawler-spider/src/test/java/cn/shenjianshou/crawler/spider/SpiderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="45" column="68" lean-forward="true" selection-start-line="45" selection-start-column="68" selection-end-line="45" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HtmlCleanerTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../htmlcleaner/src/main/java/test/HtmlCleanerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="250">
+              <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -163,7 +77,6 @@
       <find>http</find>
       <find>TLDList</find>
       <find>org.apache.commons</find>
-      <find>logger</find>
       <find>sleepycat</find>
       <find>JAVA_</find>
       <find>JAVA_ENGINE</find>
@@ -177,51 +90,36 @@
       <find>Htmltokenizer</find>
       <find>_tokenList</find>
       <find>title</find>
-      <find>option</find>
       <find>htmlcleaner.xml</find>
       <find>in</find>
+      <find>slf</find>
+      <find>maste</find>
+      <find>addUr</find>
+      <find>findurl</find>
+      <find>logger</find>
+      <find>RobotstxtServer.</find>
+      <find>requestUrl</find>
+      <find>requesturl</find>
+      <find>isFailedB</find>
+      <find>head</find>
+      <find>option</find>
     </findStrings>
     <dirStrings>
-      <dir>D:\IdeaProjects\crawler4j\crawler4j</dir>
       <dir>D:\IdeaProjects\crawler-spider\src\main\resources-phantomjs</dir>
       <dir>D:\IdeaProjects\crawler-spider\src\main\resources-js</dir>
       <dir>D:\IdeaProjects\htmlcleaner</dir>
-      <dir>D:\IdeaProjects\crawler-spider</dir>
       <dir>D:\IdeaProjects\crawler-spider\src</dir>
+      <dir>D:\IdeaProjects\crawler4j\crawler4j</dir>
+      <dir>D:\IdeaProjects\crawler-spider</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../htmlcleaner" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../crawler-spider" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/SpiderMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/robots/RobotRule.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/robots2/RobotRule.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/robots/RobotsMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/robots1/RobotRule.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/robots1/RobotsMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/robots2/RobotsMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/robots3/RobotsMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/robots/robots1/RobotRule.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/concurrent/CountDownLatchExample/Race.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/concurrent/CyclicBarrierExample/Beer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/robots/robots3/RobotsMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/url/WebURL.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/parser/ParseData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/CrawlConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/authentication/AuthInfo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/authentication/FormAuthInfo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/url/URLCanonicalizer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/fetcher/IdleConnectionMonitorThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/fetcher/SniSSLConnectionSocketFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/PathRule.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/Page.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/fetcher/PageFetcher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/fetcher/PageFetchResult.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/fetcher/SniPoolingHttpClientConnectionManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/RobotstxtParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/UserAgentDirectives.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/url/TLDList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/concurrent/Future/CommonCook.java" />
@@ -229,24 +127,65 @@
         <option value="$PROJECT_DIR$/../crawler4j/crawler4j/src/main/java/edu/uci/ics/crawler4j/crawler/CrawlController.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/RobotstxtServer.java" />
-        <option value="$PROJECT_DIR$/../crawler-spider/src/test/java/cn/shenjianshou/crawler/spider/SpiderTest.java" />
         <option value="$PROJECT_DIR$/../htmlcleaner/pom.xml" />
         <option value="$PROJECT_DIR$/../htmlcleaner/src/main/java/org/htmlcleaner/HtmlCleaner.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/htmlcleaner/HtmlCleanerTest.java" />
         <option value="$PROJECT_DIR$/../htmlcleaner/src/main/java/org/htmlcleaner/HtmlTokenizer.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/selector/Xpath2Selector.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wyh/input.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wyh/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wyh/DomParserDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/robots/robots3/RobotsMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler4j/fetcher/SniPoolingHttpClientConnectionManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler4j/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler4j/robotstxt/RobotstxtServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/spider/robotstxt/UserAgentDirectives.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/spider/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/spider/robotstxt/RobotstxtServer.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/core/Spider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wyh/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/robotstxt/RobotstxtServer.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/robotstxt/RobotstxtConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/shenjianshou/crawler/spider/robotstxt/RobotstxtServer.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/robotstxt/HostDirectives.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/robotstxt/PathRule.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/robotstxt/RobotsConfig.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/robotstxt/UserAgentDirectives.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/core/Site.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/robotstxt/RobotsServer.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/robotstxt/RobotsParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/shenjianshou/crawler/spider/robotstxt/RobotstxtParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/shenjianshou/crawler/spider/Main.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/test/java/cn/shenjianshou/crawler/spider/module/robotstxt/RobotsServerTest.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/core/engine/JSEngine.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/selector/Xpath2Selector.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/spider/FetcherSpider.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/host/FileHostClient.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/mark/SpiderStatusMark.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/pipeline/CrawlerPipeline.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/spider/CrawlerSpider.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/SpiderMain.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/engine/FetcherJSEngine.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/util/ThriftClients.java" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/main/java/mobi/bihu/crawler/spider/SpiderMain.java" />
+        <option value="$PROJECT_DIR$/../htmlcleaner/src/main/resources/htmlcleaner.xml" />
         <option value="$PROJECT_DIR$/../htmlcleaner/src/main/java/test/HtmlCleanerTest.java" />
         <option value="$PROJECT_DIR$/../crawler-spider/src/main/resources/htmlcleaner.xml" />
+        <option value="$PROJECT_DIR$/../crawler-spider/src/test/java/cn/shenjianshou/crawler/spider/SpiderTest.java" />
       </list>
     </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="crawler-spider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="crawler-spider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="htmlcleaner-2.8" type="9519ce18:MavenProjectsStructure$ProjectNode" />
@@ -256,22 +195,13 @@
           <item name="htmlcleaner-2.8" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="practice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="practice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="183" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="370" />
+    <option name="y" value="20" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -281,7 +211,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -300,6 +229,13 @@
               <item name="crawler-spider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawler-spider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
@@ -366,31 +302,55 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/robots" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../htmlcleaner/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="crawler.spider" />
       <recent name="org.htmlcleaner" />
       <recent name="edu.uci.ics.crawler4j.fetcher" />
       <recent name="edu.uci.ics.crawler4j.url" />
       <recent name="edu.uci.ics.crawler4j.crawler.authentication" />
-      <recent name="edu.uci.ics.crawler4j.crawler" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\crawler-spider\src\main\java\cn\shenjianshou\crawler\spider\module" />
+      <recent name="D:\IdeaProjects\Practice\src\main" />
+      <recent name="D:\IdeaProjects\Practice\src\main\java\crawler\spider" />
+      <recent name="D:\IdeaProjects\Practice\src\main\java" />
       <recent name="D:\IdeaProjects\htmlcleaner\src\main" />
-      <recent name="D:\IdeaProjects\htmlcleaner\src" />
-      <recent name="D:\IdeaProjects\Practice\src\test" />
-      <recent name="D:\IdeaProjects\Practice\src\main\java\edu\uci\ics\crawler4j\crawler\authentication" />
-      <recent name="D:\IdeaProjects\Practice\src\main\java\edu\uci\ics\crawler4j\robotstxt" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -406,28 +366,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.HtmlCleanerTest">
-    <configuration name="DomParserDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyh.DomParserDemo" />
-      <module name="Practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wyh.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="HtmlCleanerTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.htmlcleaner.HtmlCleanerTest" />
-      <module name="Practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.htmlcleaner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="HtmlCleanerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.HtmlCleanerTest" />
       <module name="htmlcleaner-2.8" />
@@ -439,19 +377,64 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RobotsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.robots3.RobotsMain" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crawler.spider.Main" />
       <module name="Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.robots3.*" />
+          <option name="PATTERN" value="crawler.spider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shenjianshou.crawler.spider.Main" />
+      <module name="Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.shenjianshou.crawler.spider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SpiderStatusMark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shenjianshou.crawler.spider.module.mark.SpiderStatusMark" />
+      <module name="crawler-spider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.shenjianshou.crawler.spider.module.mark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="RobotsServerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crawler-spider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.shenjianshou.crawler.spider.module.robotstxt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.shenjianshou.crawler.spider.module.robotstxt" />
+      <option name="MAIN_CLASS_NAME" value="cn.shenjianshou.crawler.spider.module.robotstxt.RobotsServerTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="SpiderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="crawler-spider" />
@@ -467,29 +450,6 @@
       <option name="MAIN_CLASS_NAME" value="cn.shenjianshou.crawler.spider.SpiderTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="SpiderTest.testLocal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="crawler-spider" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.shenjianshou.crawler.spider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.shenjianshou.crawler.spider" />
-      <option name="MAIN_CLASS_NAME" value="cn.shenjianshou.crawler.spider.SpiderTest" />
-      <option name="METHOD_NAME" value="testLocal" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -538,19 +498,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.SpiderTest.testLocal" />
-      <item itemvalue="Application.HtmlCleanerTest (1)" />
-      <item itemvalue="Application.HtmlCleanerTest" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="JUnit.RobotsServerTest" />
+      <item itemvalue="Application.SpiderStatusMark" />
       <item itemvalue="JUnit.SpiderTest" />
-      <item itemvalue="Application.DomParserDemo" />
+      <item itemvalue="Application.HtmlCleanerTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.HtmlCleanerTest" />
-        <item itemvalue="Application.DomParserDemo" />
-        <item itemvalue="JUnit.SpiderTest.testLocal" />
         <item itemvalue="JUnit.SpiderTest" />
-        <item itemvalue="Application.HtmlCleanerTest (1)" />
+        <item itemvalue="Application.SpiderStatusMark" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="JUnit.RobotsServerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -568,62 +528,70 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SpiderTest_testLocal - 2018.07.27 at 16h 28m 10s.xml">
-      <configuration name="SpiderTest.testLocal" configurationId="JUnit" />
+    <history-entry file="RobotsServerTest_testRobotsServer - 2018.07.31 at 14h 22m 43s.xml">
+      <configuration name="RobotsServerTest.testRobotsServer" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpiderTest_testLocal - 2018.07.27 at 16h 32m 29s.xml">
-      <configuration name="SpiderTest.testLocal" configurationId="JUnit" />
+    <history-entry file="RobotsServerTest_testRobotsServer - 2018.07.31 at 14h 22m 59s.xml">
+      <configuration name="RobotsServerTest.testRobotsServer" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpiderTest_testLocal - 2018.07.27 at 16h 48m 18s.xml">
-      <configuration name="SpiderTest.testLocal" configurationId="JUnit" />
+    <history-entry file="RobotsServerTest_testRobotsServer - 2018.07.31 at 14h 23m 36s.xml">
+      <configuration name="RobotsServerTest.testRobotsServer" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpiderTest - 2018.07.30 at 09h 41m 37s.xml">
+    <history-entry file="RobotsServerTest_testRobotsServer - 2018.07.31 at 14h 26m 00s.xml">
+      <configuration name="RobotsServerTest.testRobotsServer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotsServerTest_testRobotsServer - 2018.07.31 at 14h 26m 17s.xml">
+      <configuration name="RobotsServerTest.testRobotsServer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotsServerTest_testRobotsServer - 2018.07.31 at 14h 28m 40s.xml">
+      <configuration name="RobotsServerTest.testRobotsServer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotsServerTest_testRobotsServer - 2018.07.31 at 14h 37m 45s.xml">
+      <configuration name="RobotsServerTest.testRobotsServer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotsServerTest_testRobotsServer - 2018.07.31 at 14h 38m 58s.xml">
+      <configuration name="RobotsServerTest.testRobotsServer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotsServerTest - 2018.07.31 at 14h 39m 15s.xml">
+      <configuration name="RobotsServerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpiderTest - 2018.08.01 at 11h 08m 26s.xml">
       <configuration name="SpiderTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpiderTest - 2018.07.30 at 09h 42m 07s.xml">
-      <configuration name="SpiderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpiderTest_testLocal - 2018.07.30 at 09h 43m 43s.xml">
-      <configuration name="SpiderTest.testLocal" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpiderTest_testLocal - 2018.07.30 at 11h 04m 26s.xml">
-      <configuration name="SpiderTest.testLocal" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpiderTest_testLocal - 2018.07.30 at 11h 05m 21s.xml">
-      <configuration name="SpiderTest.testLocal" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpiderTest_testLocal - 2018.07.30 at 11h 07m 05s.xml">
-      <configuration name="SpiderTest.testLocal" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpiderTest_testLocal - 2018.07.30 at 11h 12m 13s.xml">
-      <configuration name="SpiderTest.testLocal" configurationId="JUnit" />
-    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.24485373" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.5492958" weight="0.2750533" />
+      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.54821235" visible="true" weight="0.2750533" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.1332611" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41170096" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19616205" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19829424" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="right" id="Structure" order="8" sideWeight="0.45070422" side_tool="true" visible="true" weight="0.22228146" />
+      <window_info anchor="right" id="Structure" order="8" sideWeight="0.45178765" side_tool="true" weight="0.2750533" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49837488" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44745395" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41386783" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -645,33 +613,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/selector/Xpath2Selector.java</url>
-          <line>144</line>
+          <line>142</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/selector/Xpath2Selector.java</url>
-          <line>176</line>
+          <line>171</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/selector/Xpath2Selector.java</url>
-          <line>163</line>
+          <line>158</line>
           <properties />
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../htmlcleaner/src/main/java/org/htmlcleaner/HtmlTokenizer.java</url>
-          <line>342</line>
-          <properties />
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../htmlcleaner/src/main/java/test/HtmlCleanerTest.java</url>
-          <line>44</line>
-          <properties />
-          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/org/htmlcleaner/HtmlCleanerTest.java</url>
@@ -686,25 +642,74 @@
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../htmlcleaner/src/main/java/org/htmlcleaner/HtmlTokenizer.java</url>
-          <line>416</line>
-          <properties />
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../htmlcleaner/src/main/java/org/htmlcleaner/HtmlCleaner.java</url>
           <line>430</line>
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/RobotstxtServer.java</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/crawler4j/robotstxt/RobotstxtServer.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/crawler4j/Main.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/crawler4j/robotstxt/RobotstxtServer.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/crawler4j/robotstxt/RobotstxtServer.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/shenjianshou/crawler/spider/robotstxt/RobotstxtServer.java</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wyh/HelloWorld.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/shenjianshou/crawler/spider/Main.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../htmlcleaner/src/main/java/test/HtmlCleanerTest.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="36" />
+      <option name="time" value="55" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
         <watch expression="_tokenList" language="JAVA" />
       </configuration>
       <configuration name="Application">
+        <watch expression="nodeList" language="JAVA" />
         <watch expression="tagNode" language="JAVA" />
       </configuration>
     </watches-manager>
@@ -721,17 +726,27 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
+        <expression-string>nodeList</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>_tokenList</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>nList</expression-string>
+        <expression-string>content</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>nodeList</expression-string>
+        <expression-string>strCommands</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nList</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -750,395 +765,397 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>htmlTokenizer.getTokenList()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>_reader</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/concurrent/Future/FutureCook.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/cn/shenjianshou/crawler/crawler-common-model/1.0.3-SNAPSHOT/crawler-common-model-1.0.3-20180731.065526-72.jar!/cn/shenjianshou/crawler/model/ScriptTask.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="600">
+          <caret line="105" column="33" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/RobotstxtConfig.java">
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/robotstxt/RobotsConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="49" column="22" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="22" />
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/url/WebURL.java">
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/robotstxt/RobotsServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="35" column="22" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="22" />
+        <state relative-caret-position="440">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/net/URLStreamHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="411" column="57" selection-start-line="411" selection-start-column="57" selection-end-line="411" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/net/URL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="783" column="27" lean-forward="true" selection-start-line="783" selection-start-column="27" selection-end-line="783" selection-end-column="27" />
-          <folding>
-            <element signature="e#29770#29771#0" expanded="true" />
-            <element signature="e#29817#29818#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar!/org/apache/http/HttpResponse.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/HostDirectives.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-622">
-          <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/RobotstxtServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="43" column="37" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="18" column="89" selection-start-line="18" selection-start-column="78" selection-end-line="18" selection-end-column="89" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/fetcher/PageFetchResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/CrawlConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="75" column="17" selection-start-line="75" selection-start-column="7" selection-end-line="75" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar!/org/apache/http/impl/client/HttpClientBuilder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="476" column="34" selection-start-line="476" selection-start-column="34" selection-end-line="476" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/resources-js/site.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/fetcher/PageFetcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="253" column="56" lean-forward="true" selection-start-line="253" selection-start-column="56" selection-end-line="253" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/UserAgentDirectives.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="123" column="24" selection-start-line="123" selection-start-column="24" selection-end-line="123" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/resources-js/robot.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/resources-phantomjs/downloader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-825" />
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/javax/script/ScriptEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/core/engine/SpiderCallback.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/resources-js/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="60" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/selector/Selectors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-          <folding>
-            <element signature="e#843#844#0" expanded="true" />
-            <element signature="e#903#904#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/core/selector/Selector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/core/engine/JSEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="501" column="39" selection-start-line="501" selection-start-column="39" selection-end-line="501" selection-end-column="39" />
-          <folding>
-            <element signature="e#18761#18762#0" expanded="true" />
-            <element signature="e#18820#18821#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/cn/shenjianshou/crawler/htmlcleaner-2.8/1.0.1/htmlcleaner-2.8-1.0.1.jar!/org/htmlcleaner/HtmlCleaner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../htmlcleaner/src/test/java/com/wyh/HelloWorldTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/robots/robots1/RobotsMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="50" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/net/sourceforge/htmlcleaner/htmlcleaner/2.8/htmlcleaner-2.8.jar!/org/htmlcleaner/HtmlTokenizer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="291" selection-start-line="291" selection-end-line="291" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/net/sourceforge/htmlcleaner/htmlcleaner/2.22/htmlcleaner-2.22.jar!/org/htmlcleaner/HtmlCleaner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="147" selection-start-line="147" selection-end-line="147" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../htmlcleaner/src/main/java/org/htmlcleaner/CleanTimeValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="60" column="21" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="21" />
-          <folding>
-            <element signature="e#2267#2281#0" expanded="true" />
-            <element signature="e#2427#2446#0" expanded="true" />
-            <element signature="e#2493#2502#0" expanded="true" />
-            <element signature="e#2869#2877#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/net/sourceforge/htmlcleaner/htmlcleaner/2.22/htmlcleaner-2.22.jar!/org/htmlcleaner/HtmlTokenizer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1092">
-          <caret line="211" selection-start-line="211" selection-end-line="211" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/net/sourceforge/htmlcleaner/htmlcleaner/2.8/htmlcleaner-2.8.jar!/org/htmlcleaner/HtmlCleaner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="136" column="65" lean-forward="true" selection-start-line="136" selection-start-column="65" selection-end-line="136" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../htmlcleaner/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/robotstxt/RobotsParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../crawler-spider/proguard.conf">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../htmlcleaner/src/main/java/org/htmlcleaner/XmlSerializer.java">
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/downloader/RequestProcessors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="168" column="19" selection-start-line="168" selection-start-column="19" selection-end-line="168" selection-end-column="19" />
+        <state relative-caret-position="394">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../htmlcleaner/src/main/java/org/htmlcleaner/PrettyXmlSerializer.java">
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/core/downloader/RequestProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/http/HttpRequestProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="127" column="29" selection-start-line="127" selection-start-column="29" selection-end-line="127" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/core/downloader/RequestHub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/cn/shenjianshou/crawler/crawler-common/1.0.3-SNAPSHOT/crawler-common-1.0.3-20180724.055846-13.jar!/org/slf4j/Marker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/engine/CleanerJSEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../crawler-spider/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+        <state relative-caret-position="-375" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/cn/shenjianshou/crawler/crawler-log-api/1.0.3-SNAPSHOT/crawler-log-api-1.0.3-20171213.120345-1.jar!/cn/shenjianshou/crawler/appender/LogServerAppender.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/util/HtmlUtils.java">
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/resources-logback/logback-spider.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="204" column="31" selection-start-line="204" selection-start-column="31" selection-end-line="204" selection-end-column="31" />
+        <state relative-caret-position="-500">
+          <caret line="100" column="93" selection-start-line="100" selection-start-column="93" selection-end-line="100" selection-end-column="93" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/test/java/cn/shenjianshou/crawler/spider/SpiderTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/cn/shenjianshou/crawler/crawler-common/1.0.3-SNAPSHOT/crawler-common-1.0.3-20180724.055846-13.jar!/cn/shenjianshou/crawler/util/Markers.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="45" column="68" lean-forward="true" selection-start-line="45" selection-start-column="68" selection-end-line="45" selection-end-column="68" />
+        <state relative-caret-position="130">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/core/engine/NodeJs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="31" column="15" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="15" />
+        <state relative-caret-position="398">
+          <caret line="43" column="39" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wyh/HelloWorld.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/shenjianshou/crawler/spider/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/htmlcleaner/HtmlCleanerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wyh/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wyh/DomParserDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+        <state relative-caret-position="191">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../htmlcleaner/src/main/resources.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../htmlcleaner/src/main/resources/run.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/resources/htmlcleaner.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/shenjianshou/crawler/spider/robotstxt/RobotstxtServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="51" column="46" lean-forward="true" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../htmlcleaner/src/main/resources/htmlcleaner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="52" column="83" selection-start-line="52" selection-start-column="78" selection-end-line="52" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../htmlcleaner/src/main/java/org/htmlcleaner/HtmlTokenizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="416" selection-start-line="416" selection-end-line="416" />
+        <state relative-caret-position="216">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
           <folding>
-            <element signature="e#0#27470#0" expanded="true" />
-            <element signature="e#2733#2744#0" expanded="true" />
-            <element signature="e#5056#5057#0" expanded="true" />
-            <element signature="e#5091#5092#0" expanded="true" />
-            <element signature="e#8509#8510#0" expanded="true" />
-            <element signature="e#8557#8558#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../htmlcleaner/src/main/java/org/htmlcleaner/HtmlCleaner.java">
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/StringTokenizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="430" selection-start-line="430" selection-end-line="430" />
+        <state relative-caret-position="191">
+          <caret line="107" column="23" selection-start-line="107" selection-start-column="23" selection-end-line="107" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/shenjianshou/crawler/spider/robotstxt/RobotstxtParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/test/java/cn/shenjianshou/crawler/spider/module/robotstxt/RobotsServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
           <folding>
-            <element signature="e#10007#10008#0" expanded="true" />
-            <element signature="e#10039#10040#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/engine/CrawlerJSEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5875">
+          <caret line="269" column="53" selection-start-line="269" selection-start-column="53" selection-end-line="269" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/core/engine/JSEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9600">
+          <caret line="458" column="126" selection-start-line="458" selection-start-column="126" selection-end-line="458" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/selector/JsonPathSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/host/FileHostClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/pipeline/LocalStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="75" column="44" lean-forward="true" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/processor/CleanerProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="185" column="31" selection-start-line="185" selection-start-column="31" selection-end-line="185" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/pipeline/CleanerStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1400">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/processor/FetcherProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="226" column="42" lean-forward="true" selection-start-line="226" selection-start-column="42" selection-end-line="226" selection-end-column="42" />
+          <folding>
+            <element signature="e#5375#5412#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/core/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/mark/SpiderInitMark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/mark/SpiderAliveMark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/mark/RootUrlMark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/mark/RetryFailedMark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/mark/PipelineAppMark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/core/Spider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+          <folding>
+            <element signature="e#5215#5216#0" expanded="true" />
+            <element signature="e#5262#5263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/spider/FetcherSpider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="31" column="37" lean-forward="true" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/module/mark/SpiderStatusMark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/spider/CrawlerSpider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="516" column="23" lean-forward="true" selection-start-line="516" selection-start-column="23" selection-end-line="516" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/pipeline/CrawlerPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="99" column="9" lean-forward="true" selection-start-line="99" selection-start-column="9" selection-end-line="99" selection-end-column="9" />
+          <folding>
+            <element signature="e#6061#6062#0" expanded="true" />
+            <element signature="e#6094#6095#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/SpiderMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="174" column="28" lean-forward="true" selection-start-line="174" selection-start-column="28" selection-end-line="174" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/engine/FetcherJSEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="496" column="91" selection-start-line="496" selection-start-column="91" selection-end-line="496" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/util/ThriftClients.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="214" column="39" selection-start-line="214" selection-start-column="39" selection-end-line="214" selection-end-column="39" />
+          <folding>
+            <element signature="e#7559#7560#0" expanded="true" />
+            <element signature="e#7616#7617#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/mobi/bihu/crawler/spider/SpiderMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="176" column="58" selection-start-line="176" selection-start-column="58" selection-end-line="176" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/java/cn/shenjianshou/crawler/spider/component/selector/Xpath2Selector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="145" column="41" lean-forward="true" selection-start-line="145" selection-start-column="41" selection-end-line="145" selection-end-column="41" />
+        <state relative-caret-position="151">
+          <caret line="171" selection-start-line="171" selection-end-line="171" />
           <folding>
-            <element signature="e#6107#6115#0" expanded="true" />
+            <element signature="e#6060#6068#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../htmlcleaner/src/main/java/org/htmlcleaner/HtmlTokenizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="416" selection-start-line="416" selection-end-line="416" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../htmlcleaner/src/main/resources/htmlcleaner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="235" column="13" selection-start-line="235" selection-start-column="13" selection-end-line="235" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../htmlcleaner/src/main/java/org/htmlcleaner/HtmlCleaner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="430" selection-start-line="430" selection-end-line="430" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../htmlcleaner/src/main/java/test/HtmlCleanerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="620">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/main/resources/htmlcleaner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4825">
+          <caret line="233" column="25" selection-start-line="233" selection-start-column="19" selection-end-line="233" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-spider/src/test/java/cn/shenjianshou/crawler/spider/SpiderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
         </state>
       </provider>
     </entry>

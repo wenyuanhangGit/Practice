@@ -35,7 +35,7 @@ public class RobotsMain {
         String googleUrl = "https://www.google.com/robots.txt";
 
         String userAgent = "Googlebot";
-        System.out.println(isAllow(weiboUrl, userAgent));
+        System.out.println(isAllow(taoBaoUrl, userAgent));
     }
 
     private static boolean isAllow(String strUrl, String userAgent)
@@ -79,6 +79,8 @@ public class RobotsMain {
         {
             return true; // if there is no robots.txt file, it is OK to search
         }
+
+        System.out.println(strCommands);
 
         if (strCommands.contains(ALLOW) || strCommands.contains(DISALLOW)) // if there are no "disallow" values, then they are not blocking anything.
         {
