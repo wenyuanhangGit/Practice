@@ -1,7 +1,7 @@
-package cn.shenjianshou.crawler.spider;
+package cralwer4j;
 
-import cn.shenjianshou.crawler.spider.robotstxt.RobotstxtConfig;
-import cn.shenjianshou.crawler.spider.robotstxt.RobotstxtServer;
+import cralwer4j.robotstxt.RobotstxtConfig;
+import cralwer4j.robotstxt.RobotstxtServer;
 
 public class Main {
 

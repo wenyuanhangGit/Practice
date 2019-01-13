@@ -13,7 +13,7 @@
  * the License.
  */
 
-package cn.shenjianshou.crawler.spider.robotstxt;
+package cralwer4j.robotstxt;
 
 import org.apache.http.NoHttpResponseException;
 
@@ -21,9 +21,6 @@ import java.io.InputStream;
 import java.net.*;
 import java.util.HashMap;
 import java.util.Map;
-
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 /**
  * @author Yasser Ganjisaffar

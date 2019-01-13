@@ -1,4 +1,4 @@
-package cn.shenjianshou.crawler.spider.robotstxt;
+package cralwer4j.robotstxt;
 
 import java.util.*;
 

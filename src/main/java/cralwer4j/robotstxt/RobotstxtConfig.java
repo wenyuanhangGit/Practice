@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package crawler4j.robotstxt;
+package cralwer4j.robotstxt;
 
 public class RobotstxtConfig {
 
