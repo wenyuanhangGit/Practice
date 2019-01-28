@@ -12,6 +12,15 @@
         <option value="$PROJECT_DIR$/../host-spout-api/pom.xml" />
         <option value="$PROJECT_DIR$/../crawler4j/pom.xml" />
         <option value="$PROJECT_DIR$/../htmlcleaner/pom.xml" />
+        <option value="$PROJECT_DIR$/../java-sdk/pom.xml" />
+        <option value="$PROJECT_DIR$/../webmagic/pom.xml" />
+        <option value="$PROJECT_DIR$/../crawler-webhooks/pom.xml" />
+        <option value="$PROJECT_DIR$/../ai-nlp/pom.xml" />
+        <option value="$PROJECT_DIR$/../ai-nlp-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../fnlp/pom.xml" />
+        <option value="$PROJECT_DIR$/../crawler-fetcher/pom.xml" />
+        <option value="$PROJECT_DIR$/../HanLP/pom.xml" />
+        <option value="$PROJECT_DIR$/../crawler-worker/pom.xml" />
       </list>
     </option>
   </component>

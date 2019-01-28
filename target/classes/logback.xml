@@ -15,7 +15,7 @@
     </appender>
 
     <appender name="file" class="ch.qos.logback.core.rolling.RollingFileAppender">
-        <file>log/host-spout.log</file>
+        <file>log/test.log</file>
         <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
             <fileNamePattern>log/host.log.%d{yyyyMMdd}.zip</fileNamePattern>
             <maxHistory>30</maxHistory>

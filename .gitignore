@@ -1,12 +1,2 @@
 target
 *.iml
-out/
-.idea
-.classpath
-.project
-.settings/
-bin/
-/downloader.js
-/render.js
-.DS_Store
-log/

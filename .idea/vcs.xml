@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../HanLP" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ai-nlp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ai-nlp-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../crawler-fetcher" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../crawler-host" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../crawler-queue-host" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../crawler-spider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../crawler-webhooks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../crawler-worker" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../crawler4j" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fnlp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../host-spout" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../host-spout-api" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../htmlcleaner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../java-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../webmagic" vcs="Git" />
   </component>
 </project>
